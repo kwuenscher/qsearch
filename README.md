@@ -11,6 +11,15 @@
   Spatial quantum search (Grover's search) package based on the continuous time quantum walk.
 </h4>
 
+<h2 align="center">
+  <img
+    alt="superposition"
+    src="https://user-images.githubusercontent.com/9468947/30002846-1538be88-90ab-11e7-9445-91bb0fe9d2d6.png"
+  />
+  <br />
+  qsearch
+</h2>
+
 
 ### Dependencies
 
